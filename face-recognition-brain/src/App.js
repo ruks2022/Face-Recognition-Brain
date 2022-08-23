@@ -4,12 +4,12 @@ import Navigaton from './components/Navigation/Navigation';
 import Logo from './components/Logo/Logo';
 import Rank from './components/Rank/Rank';
 import ImageLinkForm from './components/ImageLinkForm/ImageLinkForm';
-import Particles from 'react-particles-js';
+
 
 function App() {
   return (
     <div className="App">
-      <Particles />
+  
       <Navigaton />
       <Logo />
       <Rank />
